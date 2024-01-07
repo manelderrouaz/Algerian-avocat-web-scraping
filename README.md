@@ -1,2 +1,29 @@
 # Algerian-avocat-web-scraping
 In this project i scraped data from algerian avocat website: https://avocatalgerien.com/ , using beautifulsoup and selenium i also saved all data in mysql database 
+
+To run the scraping code you need first to install:
+
+beautifulsoup:
+
+              pip install beautifulsoup4
+
+selenium: 
+
+         pip install selenium
+
+MySQL client & connector: 
+
+                          pip install mysqlclient
+
+                          pip install mysql-connector-python 
+
+make sure your MySql server is running
+
+to run the scrapping code:  
+
+                     python lawyers_data.py 
+
+OR you can generate the database using the queries in file "gl_data.sql"  
+
+                 
+
