@@ -1,4 +1,4 @@
-# Algerian-avocat-web-scraping
+# Avocat-algerien-web-scraping
 In this project i scraped data from  avocat algerien website: https://avocatalgerien.com/ , using beautifulsoup and selenium i also saved all data in mysql database 
 
 To run the scraping code you need first to install:
