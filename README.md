@@ -9,15 +9,19 @@ beautifulsoup:
 
 selenium: 
 
-         pip install selenium
+             pip install selenium
 
 MySQL client & connector: 
 
-                          pip install mysqlclient
+              pip install mysqlclient
 
-                          pip install mysql-connector-python 
+              pip install mysql-connector-python 
+
+you need to create the database tables in file: "lawyers_data" for the first time using the queries in "dbcreation.txt" 
+
 
 make sure your MySql server is running
+
 
 to run the scrapping code:  
 
